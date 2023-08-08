@@ -1,1 +1,1 @@
-Shell, I/O Redirections and filters projects
+Write a script that prints “Hello, World"
