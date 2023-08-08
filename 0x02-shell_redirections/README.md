@@ -1,1 +1,1 @@
-print Hello, World in the terminal
+Shell, I/O Redirections and filters projects
