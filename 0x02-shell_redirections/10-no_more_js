@@ -1,2 +1,3 @@
 #!/bin/bash
-find -type f -name "*.js" -delete
+find . -type f -name "*.js" -exec rm {} + 2>/dev/null | grep -v '^$' | sed 's/^/Deleted: /'
+
